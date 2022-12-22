@@ -1,0 +1,10 @@
+com\synergy\controller\GatewayController.class
+com\synergy\service\PasswordHash.class
+com\synergy\config\AppConfig.class
+com\synergy\repository\RoleRepository.class
+com\synergy\repository\UserRepository.class
+com\synergy\client\HotelClient.class
+com\synergy\TravelGateWayApplication.class
+com\synergy\domain\User.class
+com\synergy\controller\WebMvcController.class
+com\synergy\domain\Role.class
