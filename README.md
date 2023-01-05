@@ -18,7 +18,7 @@ Hotel Booking Application is a website application that allows users to search h
 - Managed source code with Git and remote repository GitHub.
 
 ## UML:
-![UML](https://github.com/tramnhatquang/Hotel_Booking_Application/blob/main/UML%20diagrams/General%20UML.png)
+![UML](https://github.com/tramnhatquang/Hotel_Booking_Application/blob/main/general%20uml.png)
 ## Demo (Google Drive):
 
 
